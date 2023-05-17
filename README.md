@@ -6,4 +6,4 @@
 | 序号 | 组件名 | 项目 |
 | ---- | ---- | ---- |
 | 1 | 高级table | [vue-pro-table](https://github.com/dreamllq/vue-pro-table) |
-| 2 | 高级布局 | [vue-pro-table](https://github.com/dreamllq/vue-pro-layout) |
+| 2 | 高级布局 | [vue-pro-layout](https://github.com/dreamllq/vue-pro-layout) |
